@@ -1,0 +1,46 @@
+nav {
+
+margin-top: 75px;
+
+}
+
+
+#nav ul li a{
+    
+    padding: 0 1em 0 0;
+    
+}
+
+.container ul li{
+    
+    list-style-type: circle;
+    padding-bottom: 1em;
+    
+}
+
+.container {
+    
+    text-align: left;
+}
+
+#main section.cover {
+    
+    padding-bottom: 0px;
+    padding-top: 300px;
+    
+}
+
+.hideme
+{
+    opacity:0;
+}
+
+.mail_status{
+    
+    padding: 50px 0 50px 0;
+   
+
+    
+}
+
+

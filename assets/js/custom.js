@@ -40,6 +40,9 @@ $(document).ready(function() {
 
 function sendmail(){
     
+    // te verwijderen als mail server werkt.
+    $(this).attr('href', 'mailto:me@domain.com?subject=hello');
+    alert();
     document.getElementById("sendform").style.display = "none";
     document.getElementById("contact_tekst").style.display = "none";
     //document.getElementById("mail_status").style.display = "block";
